@@ -2,9 +2,10 @@
 ________________________________________________
 
 ### Sobre mim:
-  - 🎓 Formado em Engenharia Elétrica
+  - Desenvolvedor Backend / Web developer / Java / Springboot
+  - Formado em Engenharia Elétrica
   - ✏️ Finalizado recentemente o Curso Formação Desenvolvedor Moderno na <a href="https://devsuperior.com.br/cursos">DevSuperior</a>
-  - 🌱 Aprendendo mais sobre Spring e React
+  - Também possuo conhecimento no Frontend: HTML, CSS, Javascript, Typescript e ReactJS
 ________________________________________________
 
 ### Minhas skills:
