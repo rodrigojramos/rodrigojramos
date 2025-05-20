@@ -4,6 +4,8 @@ ________________________________________________
 ### Sobre mim:
   - Desenvolvedor Backend / Web developer / Java / Springboot
   - Formado em Engenharia Elétrica
+  - Graduação em andamento em Análise e Desenvolvimento de Sistemas
+  - Pós em andamento em Arquitetura e Desenvolvimento Java (FIAP)
   - Cursos finalizados na área de programação
   - Também possuo conhecimento no Frontend: HTML, CSS, Javascript, Typescript e ReactJS
 ________________________________________________
